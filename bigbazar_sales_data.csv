@@ -1,0 +1,36 @@
+Customer_Name,DOB,Product,Category,Quantity,Price,Payment_Mode,Sale_Date
+Amit,11/15/1971,Soap,Beverages,-1,200,UPI,7/10/2025
+Amit,5/3/2001,Tea,Household,5,150,Cash,7/17/2025
+Anita,11/2/1985,Rice,Beverages,5,,Wallet,7/11/2025
+Neha,7/30/2003,Tea,Personal Care,-1,100,Wallet,7/14/2025
+Sneha,8/4/1972,Oil,Household,3,150,Card,7/27/2025
+,7/26/1992,Toothpaste,Beverages,3,,Wallet,7/15/2025
+Pooja,8/22/1983,Toothpaste,Beverages,4,150,Wallet,7/9/2025
+Rohit,12/18/1994,Sugar,Personal Care,,,Wallet,7/27/2025
+Sneha,11/20/1967,Detergent,Personal Care,2,200,Wallet,7/26/2025
+Rohit,6/20/1989,Detergent,Beverages,,-20,UPI,7/23/2025
+Neha,9/10/1993,,Grocery,2,200,Card,7/5/2025
+Rohit,10/2/1994,Tea,Household,5,50,Cash,7/14/2025
+Pooja,2/7/1976,Milk,Grocery,4,100,UPI,7/9/2025
+Sneha,7/31/1991,Soap,Grocery,,,Card,7/10/2025
+Vikram,5/21/1998,Rice,Personal Care,4,50,Cash,7/26/2025
+Anita,1/18/1983,Rice,Grocery,1,,Card,7/29/2025
+Neha,11/11/1964,Milk,Household,3,100,UPI,7/3/2025
+Neha,7/15/1972,Tea,Personal Care,4,200,Card,7/28/2025
+Anita,9/7/1989,Shampoo,Personal Care,-1,-20,UPI,7/23/2025
+Amit,8/29/1996,Sugar,Household,,-20,UPI,7/10/2025
+Karan,12/10/1970,Toothpaste,Personal Care,3,200,Wallet,7/4/2025
+Priya,4/25/1985,Biscuits,Beverages,-1,200,Card,7/17/2025
+Rohit,10/1/1965,Milk,Beverages,1,150,Wallet,7/22/2025
+Rohit,5/16/1964,Oil,Personal Care,5,150,Cash,7/21/2025
+Amit,12/3/1962,Biscuits,Personal Care,-1,,Card,7/24/2025
+Rohit,7/31/1997,Soap,Personal Care,1,100,UPI,7/18/2025
+Neha,8/18/2000,Shampoo,Household,4,50,Cash,7/7/2025
+Karan,5/18/1974,Rice,Grocery,4,-20,UPI,7/24/2025
+Sneha,8/31/2002,Milk,Grocery,2,100,Cash,7/20/2025
+Neha,1/1/2001,Tea,Personal Care,1,100,UPI,7/18/2025
+Neha,7/15/1972,Tea,Personal Care,4,200,Card,7/28/2025
+Priya,4/25/1985,Biscuits,Beverages,-1,200,Card,7/17/2025
+Neha,9/10/1993,Soap,Grocery,2,200,Card,7/5/2025
+Amit,8/29/1996,Sugar,Household,,-20,UPI,7/10/2025
+Vikram,5/21/1998,Rice,Personal Care,4,50,Cash,7/26/2025
